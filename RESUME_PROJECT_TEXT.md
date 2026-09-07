@@ -1,0 +1,5 @@
+- Developed a web-based Internship Management System using HTML5, CSS3, JavaScript, and React.js to provide a user-friendly frontend interface for students and employers.
+- Built backend REST APIs using Node.js and Express.js to securely manage user authentication, internship job postings, and student application data.
+- Designed and integrated a relational MySQL database (RDBMS) to perform CRUD operations for managing student profiles, company listings, and application records.
+- Implemented real-time application status tracking, allowing students to monitor application progress and employers to filter and screen candidate profiles.
+- Utilized Git and GitHub for version control and VS Code for code optimization, ensuring clean component architecture and responsive design across all devices.
