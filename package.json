@@ -1,0 +1,16 @@
+{
+  "name": "internship-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Internship Management System web application",
+  "scripts": {
+    "build": "echo 'Static build ready'"
+  },
+  "keywords": [
+    "internship",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "Saravana Moorthy M",
+  "license": "MIT"
+}

@@ -45,6 +45,13 @@ npm start
 ```
 The server will run on [`http://localhost:5000`](http://localhost:5000).
 
+### 3. Deploy to Vercel
+1. Push this repository to GitHub.
+2. Go to [Vercel](https://vercel.com) and click **"Add New..." -> "Project"**.
+3. Import your GitHub repository (`saravanamoorthy777/Internship-Project`).
+4. Leave **Framework Preset** as **Other** (Root Directory: `./`).
+5. Click **Deploy**. Your site will be live immediately!
+
 ---
 
 ## 📜 License
